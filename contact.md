@@ -13,10 +13,10 @@ Or email me at
 Or find me on Facebook  
 I may be treating when you get in touch so please leave a message and I will get back to you as soon as I am available.
 
-Diane Kane  
-Wrexham Osteopathy  
-46, Chester Road  
-Wrexham LL11 2SD  
+**Diane Kane**  
+**Wrexham Osteopathy**  
+**46, Chester Road**  
+**Wrexham LL11 2SD**  
 
 Parking is available on the forecourt or in the surrounding streets.
 
