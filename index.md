@@ -4,7 +4,7 @@ feature_image: "bg_pic.jpg"
 feature_text: |
    
 ---
- *Treating since 1996* 
+ *Treating since 1996*  
  **Tel: 07312 919840**  
 
 ### A gentle approach for everyone
