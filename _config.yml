@@ -38,11 +38,11 @@ navigation_header:
 - title: Home
   url: /
 - title: About Osteopathy
-  url: /osteopathy/
+  url: /osteopathy
 - title: Privacy
-  url: /privacy/
+  url: /privacy
 - title: Contact
-  url: /contact/
+  url: /contact
 
 # Footer nav
 navigation_footer:
