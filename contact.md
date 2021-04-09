@@ -23,5 +23,3 @@ Parking is available on the forecourt or in the surrounding streets.
 ## FEES FOR OSTEOPATHY
 Adults consultation and treatment: £47  
 Child consultation and treatment: £40
-
-<iframe width="600" height="450" src="https://www.google.co.uk/maps/@53.05344207279748,-2.9914994671106245z"></iframe>
