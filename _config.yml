@@ -7,6 +7,8 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - Notes
+- blog
+- categories.md
 
 # Set plugins
 plugins:
@@ -27,7 +29,7 @@ baseurl: ''
 title: 'Diane Kane Osteopathy Wrexham'
 description: 'Diane Kane Osteopathy Wrexham'
 permalink: pretty
-logo: "logo.png"
+logo: "../logo.png"
 
 # Pagination
 paginate: 5
