@@ -27,9 +27,15 @@ plugins:
 url: 'https://dianekaneosteopath.com'
 baseurl: ''
 title: 'Diane Kane Osteopathy Wrexham'
-description: 'Diane Kane Osteopathy Wrexham'
+description: 'Osteopathy and Cranial Osteopathy in Wrexham with Diane Kane, Treating since 1996'
 permalink: pretty
 logo: "../logo.png"
+
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: ../favicon/favicon-16x16.png
+  32: ../favicon/favicon-32x32.png
+  192: ../favicon/android-chrome-192x192.png
+  512: ../favicon/android-chrome-512x512.png
 
 # Pagination
 paginate: 5

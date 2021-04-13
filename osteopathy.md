@@ -1,5 +1,5 @@
 ---
-title: Osteopathy
+title: About Osteopathy
 feature_image: "../bg_pic.jpg"
 feature_text: |
    
