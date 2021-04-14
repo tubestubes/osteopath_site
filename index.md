@@ -1,5 +1,5 @@
 ---
-title: 
+title: 'Home'
 feature_image: "bg_pic.jpg"
 feature_text: |
    
