@@ -26,3 +26,5 @@ Using the principles of osteopathy and cranial Osteopathy, the gentle hands on a
 
 ### Covid 19 Precautions
 If you are experiencing a new continuous cough, a temperature and or a loss of taste and smell, have recently returned from an area where the virus is more prevalent, or have knowingly been in contact with someone with the virus, either phone for advice or book for after you have completed your isolation period. Social distancing measures and hand sanitizers are in place and the treatment room is cleaned between each appointment. The osteopath will be wearing PPE and we ask that the patient also wears a mask. Thank you.
+
+![](english.jpg){: width="250"} ![](welsh.jpg){: width="250"}
