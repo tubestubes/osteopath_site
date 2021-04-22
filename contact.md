@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-feature_image: "../bg_pic.jpg"
+feature_image: "../images/bg_pic.jpg"
 feature_text: |
    
 ---

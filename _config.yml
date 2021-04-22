@@ -9,6 +9,7 @@ exclude:
 - Notes
 - blog
 - categories.md
+- Makefile
 
 # Set plugins
 plugins:
@@ -29,7 +30,7 @@ baseurl: ''
 title: 'Diane Kane Osteopathy Wrexham'
 description: 'Osteopathy and Cranial Osteopathy in Wrexham with Diane Kane, Treating since 1996'
 permalink: pretty
-logo: "../logo2.png"
+logo: "../images/logo2.png"
 
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   16: ../favicon/favicon-16x16.png
