@@ -15,12 +15,9 @@ Or email me at
 Or find me on Facebook  
 
 **Diane Kane**  
-**Wrexham Osteopathy**  
-**46, Chester Road**  
-**Wrexham LL11 2SD**  
-
-To open on Google Maps, click here [https://goo.gl/maps/HXy2hmu3q5H79WN8A](https://goo.gl/maps/HXy2hmu3q5H79WN8A)  
-Parking is available on the forecourt or in the surrounding streets.
+**Woodridge Avenue**  
+**Wrexham**  
+**LL12 8SS**  
 
 ## FEES FOR OSTEOPATHY
 Adults consultation and treatment: £47  
