@@ -20,9 +20,9 @@ Complaints need to be sent to the ‘Data Controller’:
 
 Diane Kane  
 07312 919840  
-46, Chester Road  
-Wrexham   
-LL11 2SD  
+Woodridge Avenue  
+Wrexham  
+LL12 8SS 
 
 
 Because we only use paper records we do not have to register with the Information Commissioner’s Office.
