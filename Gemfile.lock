@@ -16,7 +16,9 @@ GEM
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
+    ffi (1.15.0)
     ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -80,7 +82,11 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_portile2 (2.5.3)
     minitest (5.14.4)
+    nokogiri (1.11.3)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
     nokogiri (1.11.3-x64-mingw32)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -96,6 +102,8 @@ GEM
       i18n
     rubyzip (2.3.0)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     terminal-table (2.0.0)
@@ -103,9 +111,11 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.7.0)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES
@@ -120,6 +130,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.6.1)
   jekyll-sitemap (~> 1.4.0)
   jemoji (~> 0.12)
+  webrick
 
 BUNDLED WITH
    2.1.4
