@@ -4,8 +4,11 @@ feature_image: "images/bg_pic.jpg"
 feature_text: |
    
 ---
+
+> **Currently Closed**
+
 # Osteopathy and Cranial Osteopathy in Wrexham with Diane Kane  
-*Treating since 1996* 
+*Treating since 1996*
 
 ### Tel: 07312 919840  
 

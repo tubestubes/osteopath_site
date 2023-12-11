@@ -20,5 +20,5 @@ Or find me on Facebook
 **LL12 8SS**  
 
 ## FEES FOR OSTEOPATHY
-Adults consultation and treatment: £47  
-Child consultation and treatment: £40
+Adults consultation and treatment: £50 
+
